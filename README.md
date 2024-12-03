@@ -1,4 +1,4 @@
-# socmods: Social Science Modeling in R
-#### (_soash-agents_)
+# socmod: Social Science Models in R
+#### (pronounce _soash-mod_)
 
 Under development. 

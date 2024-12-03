@@ -1,2 +1,4 @@
-# Computational-Social-Science-for-Sustainability-Library
-R code library for computational social science, focused on pedagogical use, but also suitable for research use.
+# socagents: Social Agent-based Modeling in R
+#### (_soshe-agents_)
+
+Under development. 

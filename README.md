@@ -1,4 +1,4 @@
 # socagents: Social Agent-based Modeling in R
-#### (_soshe-agents_)
+#### (_soash-agents_)
 
 Under development. 

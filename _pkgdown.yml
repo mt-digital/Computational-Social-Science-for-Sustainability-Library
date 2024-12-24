@@ -1,0 +1,7 @@
+template:
+  bootstrap: 5
+  # bootswatch: cyborg
+  # bootswatch: cerulean
+  # bootswatch: sketchy
+  # bootswatch: slate
+  # bootswatch: sandstone
